@@ -3,4 +3,6 @@ PRODUCT_PACKAGES += \
     CameraGo \
     GalleryGo \
     GContacts \
+	Dashboard \
+	Nekopoi \
     RemovePackages
